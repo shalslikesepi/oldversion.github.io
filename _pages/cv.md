@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Public Health, University of Florida, 2020
+* MPH in Epidemiology, University of Florida, 2021 (Expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2019 - May 2020: Research Assistant
+  * Department of Biobehavioral Nursing Science, University of Florida
+  * Protocols: Developing the Biobehavioral Foundation for Self-Management of Psych-neurological Symptoms    in Hematopoietic Stem Cell Transplant (HCT) Survivors
+  * Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
+  * Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
 
 * Fall 2015: Research Assistant
   * Github University
