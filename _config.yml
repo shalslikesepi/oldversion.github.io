@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shalini Nair"
   avatar           : "headshot.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MPH Candidate at the University of Florida"
   location         : "Gainesville, FL"
-  employer         : "University of Florida"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=hc4y0ZsAAAAJ&hl=en"
   email            :  "shalsnair@ufl.edu"
   uri              :
