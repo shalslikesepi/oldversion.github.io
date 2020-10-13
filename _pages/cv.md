@@ -59,7 +59,7 @@ Skills
   * REDCap
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences  
-   * [See: Talks](/pages/talks)
+   * [See: Talks](/_pages/talks)
 
 Publications
 ======
