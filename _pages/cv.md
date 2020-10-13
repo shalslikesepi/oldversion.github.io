@@ -36,13 +36,13 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
 University Scholars Program, University of Florida  
   
   **Project 1:** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous
-Hematopoietic Stem Cell Transplant Survivors
-        * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019
-   * Supervisor: Nosha Farhadfar, M.D.  
+Hematopoietic Stem Cell Transplant Survivors  
+* Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
+* Supervisor: Nosha Farhadfar, M.D.  
      
-  **Project 2:** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?
-        * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018
-   * Supervisor: Laura K. Guyer, Ph.D., Med, RDN
+  **Project 2:** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
+  * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
+  * Supervisor: Laura K. Guyer, Ph.D., Med, RDN
   
 Skills
 ======
