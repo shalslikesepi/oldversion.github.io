@@ -11,7 +11,6 @@ redirect_from:
 Welcome to my page! My name is Shalini (Shah-lynn-ee) Nair. I earned my Bachelor of Public Health at the University of Florida, where my undergraduate research primarily focused on cancer epidemiology and transplant outcomes. I completed an advanced track combined degree program, where I began coursework towards a graduate degree during the third year of my undergraduate career. Currently, I am finishing my Master of Public Health in Epidemiology at UF, with an expected graduation date of May 2021. I plan on pursuing doctoral study in epidemiology, with a focus on the dynamics of infectious disease transmission. 
 
 ## Background 
-{: .gitlab-purple} 
 
 During my undergraduate study, I was a two-time recipient of the University Scholars Award—a prestigious research fellowship funding mentored research. The first year funded work with Dr. Laura Guyer where we assessed career readiness outcomes in pre-health students across the state of Florida. Specifically, we investigated whether participation in the extracurricular program Health Occupation Students of American (HOSA) prepared a future workforce capable of meeting the ever-changing needs of diverse populations.  
 
