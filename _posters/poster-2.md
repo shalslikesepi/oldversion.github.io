@@ -1,7 +1,7 @@
 ---
 title: "Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in
 Health?"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/HOSA.png'>"
 collection: posters
 ---
 
