@@ -16,9 +16,15 @@ During my undergraduate study, I was a two-time recipient of the University Scho
 
 The second year funded my work with Dr. Nosha Farhadfar through the UF Health Cancer Center. I was able to expand my experience into the clinical setting at the UF Bone Marrow Transplant Clinic where I consented and surveyed patients, conducted follow-ups, and managed data integrity helping to address dietary outcomes in transplant patients. This experience culminated in a talk, a poster presentation, a publication, and a supplement. Building off of my work here, I then transitioned into a summer internship in Cancer Epidemiology with Dr. Jong Park at Moffitt Cancer Center.   
 
-Finally, I most recently worked as a data specialist under Dr. Debra Kelly in the Department of Biobehavioral Nursing Science at the UF College of Nursing. I worked closely with Dr. Kelly during my previous experience at the Cancer Center and was recruited to continue with her as a paid assistant on three of her protocols. I gained immense experience with data management using both OnCore and REDCap interfaces, as well as with parsing the electronic health record.    
+Finally, I most recently worked as a data specialist under Dr. Debra Kelly in the Department of Biobehavioral Nursing Science at the UF College of Nursing. I worked closely with Dr. Kelly during my previous experience at the Cancer Center and was recruited to continue with her as a paid assistant on three of her protocols. I gained immense experience with data management using both OnCore and REDCap interfaces, as well as with parsing the electronic health record.  
+
+In addition to my research, my curriculum has given me a strong foundation in data analysis in SAS and R. Additionally, the majority of my graduate electives have focused on the dynamics and epidemiology of infectious diseases. Relevant coursework include Virology, Infectious Disease Epidemiology, Epidemiology Methods I and II, and Public Health Computing. I am particularly fascinated by emerging pathogens and the complex factors associated with their emergence and spread. The application of this knowledge to inform quantitative methods is a forefront that I would like to pivot to explore during my doctoral studies. 
 
 ## Interests   
 
-My curriculum has given me a strong foundation in data analysis in SAS and R. Additionally, the majority of my graduate electives have focused on the dynamics and epidemiology of infectious diseases. Relevant coursework include Virology, Infectious Disease Epidemiology, Epidemiology Methods I and II, and Public Health Computing. I am particularly fascinated by emerging pathogens and the complex factors associated with their emergence and spread. The application of this knowledge to inform quantitative methods is a forefront that I would like to pivot to explore during my doctoral studies. 
+* Infectious Disease Epidemiology  
+* Quantitative Methods 
+* Health Disparities 
+* Public Health Preparedness
+* Vaccine Preventable Diseases 
 
