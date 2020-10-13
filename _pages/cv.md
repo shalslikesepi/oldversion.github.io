@@ -66,7 +66,34 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+**2020 - Present** contraCOVID  
+* Serve on the Resource Renewal Team updating resource guides for local community members and underserved groups in regard to COVID-19.  
+  
+**2020 - Present** Community Health Oriented Mentorship Program (CHOMP)
+* Provide advice and support to mentee(s) in regard to academic and professional pursuits  
+* Advance conversations and career development for students with interest in Public Health  
+
+**2020 - 2020** SWAG Family Resource Center  
+* Served as an intern Jan-Mar, internship cut short due to COVID-19  
+* Assisted with the daily operations of the Family Resource Center serving unserved residents in Linton Oaks, Gainesville  
+* Assisted with homework help for community youth, performed needs assessments for emergency resources, and aided in community outreach and canvassing  
+
+**2019 - Present** Dean's Ambassador  
+* Serve as a liaison between the college and its students, alumni, faculty, and donors  
+* Plan events, escort, and engage with current and potential donors, candidates, and prominent leaders visiting the college  
+
+**2018 - 2019** Health Professions College Council Ambassador  
+* Served as a college representative that promoted interest, awareness, and understanding of the health professions throughout the university and the community at large  
+
+**2017 - 2018** Dance Marathon Delegate  
+* Campaigned and was elected to position through Delta Nu Zeta sorority  
+* Captained a team of approximately 30 individuals to fundraise over $19,000 and participate in events for Children’s Miracle Network  
+* Personally fundraised $2,400  
+
+**2017 - 2018** Delta Nu Zeta  
+* Completed over 60 hours of community service within the Gainesville area at: Ronald McDonald House, Boys and Girls Club, Children’s Home Society, Alachua County Habitat for Humanity  
+* Campaigned and was elected (1 year term) as Dance Marathon Chair  
+
+
