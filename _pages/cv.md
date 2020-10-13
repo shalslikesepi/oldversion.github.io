@@ -19,12 +19,12 @@ Research experience
 **Aug 2019 - May 2020 Research Assistant**
 Department of Biobehavioral Nursing Science, University of Florida
 
-  * Protocols: 
-  |1. Developing the Biobehavioral Foundation for Self-Management of Psych-neurological Symptoms in Hematopoietic Stem Cell Transplant (HCT) Survivors
-  | 2. Foundations for a Targeted Dietary Intervention to Mitigate Dysbiosis and Persistent Fatigue for Survivors of Allogeneic Hematopoietic Cell                         Transplantation (HCT)
-  |3. A Phase III, Randomized, Clinical Trial Comparing Two Diets in Patients Undergoing Hematopoietic Stem Cell Transplant (HSCT) or Remission Induction                 Chemotherapy for Acute Leukemia and Myelodysplastic Syndrome
-  |* Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
-  |* Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
+  * Protocols:   
+  1. Developing the Biobehavioral Foundation for Self-Management of Psych-neurological Symptoms in Hematopoietic Stem Cell Transplant (HCT) Survivors  
+  2. Foundations for a Targeted Dietary Intervention to Mitigate Dysbiosis and Persistent Fatigue for Survivors of Allogeneic Hematopoietic Cell                         Transplantation (HCT)  
+  3. A Phase III, Randomized, Clinical Trial Comparing Two Diets in Patients Undergoing Hematopoietic Stem Cell Transplant (HSCT) or Remission Induction                 Chemotherapy for Acute Leukemia and Myelodysplastic Syndrome
+ * Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
+ * Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
 
 **May 2019 - Aug 2019 SPARK Intern**
 Department of Cancer Epidemiology, Moffitt Cancer Center 
