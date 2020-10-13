@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-**Aug 2019 - May 2020 Research Assistant**
+**Aug 2019 - May 2020 Research Assistant**  
 Department of Biobehavioral Nursing Science, University of Florida
 
   * Protocols:   
@@ -26,21 +26,22 @@ Department of Biobehavioral Nursing Science, University of Florida
  * Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
  * Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
 
-**May 2019 - Aug 2019 SPARK Intern**
+**May 2019 - Aug 2019 SPARK Intern**  
 Department of Cancer Epidemiology, Moffitt Cancer Center 
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
   * Supervisor: Jong Park, Ph.D., MPH
   
- **2017-2019 University Scholars Research Assistant**
-University Scholars Program, University of Florida  
+ **2017-2019 University Scholars Research Assistant**   
+ University Scholars Program, University of Florida  
   
-   **(Jul 2018 - May 2019)** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors    
-      * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
-      * Supervisor: Nosha Farhadfar, M.D.  
+   **(Jul 2018 - May 2019)** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
+   * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
+   * Supervisor: Nosha Farhadfar, M.D.  
      
-   **(Feb 2017 - May 2018)** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?   
-      * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018        * Supervisor: Laura K. Guyer, Ph.D., Med, RDN
+   **(Feb 2017 - May 2018)** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
+   * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
+   * Supervisor: Laura K. Guyer, Ph.D., Med, RDN
   
 Skills
 ======
