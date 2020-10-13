@@ -35,22 +35,24 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
  **2017-2019 University Scholars Research Assistant**   
  University Scholars Program, University of Florida  
   
-   **(Jul 2018 - May 2019)** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
+   **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
    * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
    * Supervisor: Nosha Farhadfar, M.D.  
      
-   **(Feb 2017 - May 2018)** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
+   **Feb 2017 - May 2018** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
    * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
    * Supervisor: Laura K. Guyer, Ph.D., Med, RDN
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis  
+  * SAS
+  * R
+* Data management
+  * OnCore
+  * REDCap
+* Patient recruitment and consent  
+* Communicating scientific information to broad audiences
 
 Publications
 ======
