@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Public Health, University of Florida, 2020
-* MPH in Epidemiology, University of Florida, 2021 (Expected)
+* MPH in Epidemiology, University of Florida, 2021 (Expected)  
+    * GPA: 4.0/4.0
+* Bachelor of Public Health, University of Florida, 2020  
+    * Minors: Health Disparities in Society, Anthropology  
+    * Honors: Cum Laude  
+    * GPA: 3.84/4.0
 
 Research experience
 ======
