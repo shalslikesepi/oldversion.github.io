@@ -34,7 +34,8 @@ Department of Biobehavioral Nursing Science, University of Florida
 Department of Cancer Epidemiology, Moffitt Cancer Center 
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
-  * Supervisor: Jong Park, Ph.D., MPH
+  * Supervisor: Jong Park, Ph.D., MPH  
+  * [More about the SPARK Internship Program Here](https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/)
   
  **2017-2019 University Scholars Research Assistant**   
  University Scholars Program, University of Florida  
