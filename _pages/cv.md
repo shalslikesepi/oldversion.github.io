@@ -56,7 +56,7 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
       * [More about the UF University Scholars Program here](https://cur.aa.ufl.edu/university-scholars-program/)  
       
-**Health Disparities Practicum Intern**
+**Jan 2018 - May 2018 Health Disparities Practicum Intern**  
 UF HealthStreet, University of Florida  
 
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
@@ -93,7 +93,8 @@ Service and leadership
 * Assisted with the daily operations of the Family Resource Center serving unserved residents in Linton Oaks, Gainesville  
 * Assisted with homework help for community youth, performed needs assessments for emergency resources, and aided in community outreach and canvassing  
 
-**2019 - Present** Dean's Ambassador [Click here and scroll to view my Ambassador spotlight!](https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/)
+**2019 - Present** Dean's Ambassador  
+[Click here and scroll to view my Ambassador spotlight!](https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/)
 * Serve as a liaison between the college and its students, alumni, faculty, and donors  
 * Plan events, escort, and engage with current and potential donors, candidates, and prominent leaders visiting the college  
 
