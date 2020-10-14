@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-<a href="https://shalslikesepi.github.io/files/Shalini Nair CV.pdf">Also available in PDF format.</a>.  <br/>
+<a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf">Also available in PDF format.</a>.  <br/>
 
 Education
 ======
@@ -115,7 +115,7 @@ Service and Leadership
 Non-Academic Employment  
 ======  
 
-Student Assistant  
+**Student Assistant**  
   
   
 * UF College of Dentistry (Oct 2019 - Present)  
