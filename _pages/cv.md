@@ -26,7 +26,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research experience
+Research Experience
 ======
 **Aug 2019 - May 2020 Research Assistant**  
 Department of Biobehavioral Nursing Science, University of Florida
@@ -81,7 +81,7 @@ Skills
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences   
 
-Service and leadership
+Service and Leadership
 ======
 **2020 - Present** contraCOVID  
 * Serve on the Resource Renewal Team updating resource guides for local community members and underserved groups in regard to COVID-19.  
