@@ -16,7 +16,13 @@ Education
 * Bachelor of Public Health, University of Florida, 2020  
     * Minors: Health Disparities in Society, Anthropology  
     * Honors: Cum Laude  
-    * GPA: 3.84/4.0
+    * GPA: 3.84/4.0  
+    
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Research experience
 ======
@@ -48,7 +54,13 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
    * **Feb 2017 - May 2018** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
       * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
-      * [More about the UF University Scholars Program Here](https://cur.aa.ufl.edu/university-scholars-program/)
+      * [More about the UF University Scholars Program Here](https://cur.aa.ufl.edu/university-scholars-program/)  
+      
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -60,18 +72,6 @@ Skills
   * REDCap
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
