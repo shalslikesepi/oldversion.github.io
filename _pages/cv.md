@@ -41,7 +41,7 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
   * Supervisor: Jong Park, Ph.D., MPH  
-  * [More about the SPARK Internship Program Here](https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/)
+  * [More about the SPARK Internship Program here](https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/)
   
  **2017-2019 University Scholars Research Assistant**   
  University Scholars Program, University of Florida  
@@ -49,18 +49,24 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
    * **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
       * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
       * Supervisor: Nosha Farhadfar, M.D.  
-      * [More about the UF Health Cancer Center Scholars Program Here](https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/)
+      * [More about the UF Health Cancer Center Scholars Program here](https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/)
      
    * **Feb 2017 - May 2018** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
       * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
-      * [More about the UF University Scholars Program Here](https://cur.aa.ufl.edu/university-scholars-program/)  
+      * [More about the UF University Scholars Program here](https://cur.aa.ufl.edu/university-scholars-program/)  
+      
+**Health Disparities Practicum Intern**
+UF HealthStreet, University of Florida  
+
+ * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
+ * [More about UF HealthStreet here](http://healthstreet.program.ufl.edu/)
       
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>    
   
 Skills
 ======
@@ -71,7 +77,7 @@ Skills
   * OnCore
   * REDCap
 * Patient recruitment and consent  
-* Communicating scientific information to broad audiences  
+* Communicating scientific information to broad audiences   
 
 Service and leadership
 ======
@@ -101,6 +107,18 @@ Service and leadership
 
 **2017 - 2018** Delta Nu Zeta  
 * Completed over 60 hours of community service within the Gainesville area at: Ronald McDonald House, Boys and Girls Club, Children’s Home Society, Alachua County Habitat for Humanity  
-* Campaigned and was elected (1 year term) as Dance Marathon Chair  
+* Campaigned and was elected (1 year term) as Dance Marathon Chair   
+
+Non-Academic Employment  
+======  
+
+Student Assistant  
+  
+  
+* UF College of Dentistry (Oct 2019 - Present)  
+    * Duties include: assist with creation and linkage of video materials for DMD courses, perform video edits, uploads, and transfers, provide technical assistance to students and professors, assist with management of dental classrooms and technology  
+    
+* UF Disability Resource Center (Aug 2017 - Oct 2019)  
+    * Duties included: serve as primary contact for student, parent, and faculty inquiries, manage requests and fulfill accommodation letters for 1000+ students, handle high volume of calls and walk in traffic, schedule appointments and manage staff calendars
 
 
