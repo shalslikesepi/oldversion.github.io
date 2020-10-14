@@ -12,7 +12,7 @@ Welcome to my page! My name is Shalini (Shah-lynn-ee) Nair. I earned my Bachelor
 
 ## Background 
 
-During my undergraduate study, I was a two-time recipient of the University Scholars Award—a prestigious research fellowship funding mentored research. The first year funded work with Dr. Laura Guyer where we assessed career readiness outcomes in pre-health students across the state of Florida. Specifically, we investigated whether participation in the extracurricular program Health Occupation Students of American (HOSA) prepared a future workforce capable of meeting the ever-changing needs of diverse populations.  
+During my undergraduate study, I was a two-time recipient of the University Scholars Award—a prestigious fellowship funding mentored research. The first year funded work with Dr. Laura Guyer where we assessed career readiness outcomes in pre-health students across the state of Florida. Specifically, we investigated whether participation in the extracurricular program Health Occupation Students of American (HOSA) prepared a future workforce capable of meeting the ever-changing needs of diverse populations.  
 
 The second year funded my work with Dr. Nosha Farhadfar through the UF Health Cancer Center. I was able to expand my experience into the clinical setting at the UF Bone Marrow Transplant Clinic where I consented and surveyed patients, conducted follow-ups, and managed data integrity helping to address dietary outcomes in transplant patients. This experience culminated in a talk, a poster presentation, a publication, and a supplement. Building off of my work here, I then transitioned into a summer internship in Cancer Epidemiology with Dr. Jong Park at Moffitt Cancer Center.   
 
