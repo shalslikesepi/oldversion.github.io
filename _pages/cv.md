@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}  
 
 <a href="https://shalslikesepi.github.io/files/Shalini Nair CV.pdf">Also available in PDF format.</a>.  <br/>
-<br/>
 
 Education
 ======
