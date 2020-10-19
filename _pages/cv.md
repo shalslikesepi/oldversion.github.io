@@ -96,6 +96,7 @@ Service and Leadership
 * Assisted with homework help for community youth, performed needs assessments for emergency resources, and aided in community outreach and canvassing  
 
 **2019 - Present** Dean's Ambassador  
+  
 [Click here and scroll to view my Ambassador spotlight!](https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/)
 * Serve as a liaison between the college and its students, alumni, faculty, and donors  
 * Plan events, escort, and engage with current and potential donors, candidates, and prominent leaders visiting the college  
