@@ -20,13 +20,13 @@ redirect_from:
     * Honors: Cum Laude  
     * GPA: 3.84/4.0  
     
-<span style="color:indigo">Publications</span>
+<span style="color:indigo"><u>Publications</u></span>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<span style="color:indigo">Research Experience</span>
+<span style="color:indigo"><u>Research Experience</u></span>
 ======
 **Aug 2019 - May 2020 Research Assistant**  
 Department of Biobehavioral Nursing Science, University of Florida
@@ -64,13 +64,13 @@ UF HealthStreet, University of Florida
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
  * [More about UF HealthStreet here](http://healthstreet.program.ufl.edu/)
       
-<span style="color:indigo">Talks</span>
+<span style="color:indigo"><u>Talks</u></span>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>    
   
-<span style="color:indigo">Skills</span>
+<span style="color:indigo"><u>Skills</u></span>
 ======
 * Data analysis  
   * SAS
@@ -81,7 +81,7 @@ UF HealthStreet, University of Florida
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences   
 
-<span style="color:indigo">Service and Leadership</span>
+<span style="color:indigo"><u>Service and Leadership</u></span>
 ======
 **2020 - Present** contraCOVID  
 * Serve on the Resource Renewal Team updating resource guides for local community members and underserved groups in regard to COVID-19.  
@@ -114,7 +114,7 @@ UF HealthStreet, University of Florida
 * Campaigned and was elected (1 year term) as Dance Marathon Chair   
 
 
-<span style="color:indigo">Non-Academic Employment</span>  
+<span style="color:indigo"><u>Non-Academic Employment</u></span>  
 ======  
 
 **Student Assistant**  
