@@ -11,7 +11,7 @@ redirect_from:
 
 <a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf">Also available in PDF format.</a>.  <br/>
 
-<span style="color:navy">Education</span>
+<span style="color:aquamarine">Education</span>
 ======
 * MPH in Epidemiology, University of Florida, 2021 (Expected)  
     * GPA: 4.0/4.0
@@ -20,13 +20,13 @@ redirect_from:
     * Honors: Cum Laude  
     * GPA: 3.84/4.0  
     
-<span style="color:navy">Publications</span>
+<span style="color:aquamarine">Publications</span>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<span style="color:navy">Research Experience</span>
+<span style="color:aquamarine">Research Experience</span>
 ======
 **Aug 2019 - May 2020 Research Assistant**  
 Department of Biobehavioral Nursing Science, University of Florida
@@ -64,13 +64,13 @@ UF HealthStreet, University of Florida
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
  * [More about UF HealthStreet here](http://healthstreet.program.ufl.edu/)
       
-<span style="color:navy">Talks</span>
+<span style="color:aquamarine">Talks</span>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>    
   
-<span style="color:navy">Skills</span>
+<span style="color:aquamarine">Skills</span>
 ======
 * Data analysis  
   * SAS
@@ -81,7 +81,7 @@ UF HealthStreet, University of Florida
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences   
 
-<span style="color:navy">Service and Leadership</span>
+<span style="color:aquamarine">Service and Leadership</span>
 ======
 **2020 - Present** contraCOVID  
 * Serve on the Resource Renewal Team updating resource guides for local community members and underserved groups in regard to COVID-19.  
@@ -114,7 +114,7 @@ UF HealthStreet, University of Florida
 * Campaigned and was elected (1 year term) as Dance Marathon Chair   
 
 
-<span style="color:navy">Non-Academic Employment</span>  
+<span style="color:aquamarine">Non-Academic Employment</span>  
 ======  
 
 **Student Assistant**  
