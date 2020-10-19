@@ -27,4 +27,5 @@ In addition to my research, my curriculum has given me a strong foundation in da
 * Health Disparities 
 * Public Health Preparedness
 * Vaccine Preventable Diseases 
+* Disease Modeling
 
