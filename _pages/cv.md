@@ -11,7 +11,7 @@ redirect_from:
 
 <a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf">Also available in PDF format.</a>.  <br/>
 
-<span style="color:red:>Education</span>
+Education
 ======
 * MPH in Epidemiology, University of Florida, 2021 (Expected)  
     * GPA: 4.0/4.0
