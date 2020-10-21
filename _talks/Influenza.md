@@ -11,6 +11,9 @@ excerpt: "Critical review presented for PHC6517: Public Health Concepts in Infec
 
 [Slides Available Here](http://shalslikesepi.github.io/files/InfluenzaEstimates.pdf)    
 
+[Presentation Recording Available Here](https://youtu.be/u_ccXJmmIKA)  
+
+
 Semester: Fall 2020  
 
 Fulfillment of a core component of PHC6517: Public Health Concepts in Infectious Disease. Students were tasked with analyzing a chosen research article, presenting to the class, and leading a discussion. Total presentation and discussion time amounted to 45 minutes and was delivered via Zoom. 
