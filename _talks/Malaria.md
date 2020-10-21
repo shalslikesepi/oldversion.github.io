@@ -9,7 +9,9 @@ location: "Gainesville, FL"
 excerpt: "Critical review presented for PHC6517: Public Health Concepts in Infectious Disease"
 ---
 
-[Slides Available Here](http://shalslikesepi.github.io/files/Malaria.pdf)
+[Slides Available Here](http://shalslikesepi.github.io/files/Malaria.pdf)  
+
+[Presentation Recording Available Here](https://youtu.be/fARKe7bL3Cs)  
 
 Semester: Fall 2020  
 
