@@ -4,8 +4,7 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---  
-   
-   
+<br/>
 <span style="color:royalblue"><b>Taken prior to ascertainment of Bachelor's (combined degree)</b></span>   
 
 ## <u><span style="color:darkblue">Methodological Core</span></u>     
