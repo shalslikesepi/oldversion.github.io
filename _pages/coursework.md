@@ -4,12 +4,13 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---  
-  
+   
+   
 <span style="color:royalblue"><b>Taken prior to ascertainment of Bachelor's (combined degree)</b></span>   
 
 ## <span style="color:darkblue">Methodological Core</span>   
-* <span style="color:darkblue"><b>PHC6001 Principles of Epidemiology in Public Health </b></span>  
-* <span style="color:darkblue"><b>PHC6000 Epidemiology Methods I </b></span>     
+* <span style="color:royalblue"><b>PHC6001 Principles of Epidemiology in Public Health </b></span>  
+* <span style="color:royalblue"><b>PHC6000 Epidemiology Methods I </b></span>     
 * PHC6011 Epidemiology Methods II       
 
 ## <span style="color:darkblue">Biostatistical Methods</span>   
