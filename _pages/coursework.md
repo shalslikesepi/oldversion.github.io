@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework"
+title: <span style="color:darkblue">Coursework"</span>  
 permalink: /coursework/
 author_profile: true
 ---  
