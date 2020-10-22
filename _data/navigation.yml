@@ -11,6 +11,9 @@ main:
     url: /posters/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+    
+  - title: "Coursework"
+    url: /coursework/
 
  
