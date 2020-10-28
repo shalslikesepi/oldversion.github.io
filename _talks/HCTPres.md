@@ -9,6 +9,6 @@ location: "Gainesville, FL"
 excerpt: "Presentation on A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors given to faculty, staff, and students at UF Health Cancer Center."
 ---
 
-[Slides Available Here](http://shalslikesepi.github.io/files/HCTPres.pdf)
+[Slides Available Here](http://shalslikesepi.github.io/files/HCTPres.pdf){:target="_blank"}  
 
 Presentation on A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors given to faculty, staff, and students at UF Health Cancer Center.
