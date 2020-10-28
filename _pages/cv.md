@@ -51,18 +51,18 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
    * **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
       * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
       * Supervisor: Nosha Farhadfar, M.D.  
-      * [More about the UF Health Cancer Center Scholars Program here](https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/)    
+      * <a href="https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/" target="_blank" rel="noreferrer">More about the UF Health Cancer Center Scholars Program here </a>  
      
    * **Feb 2017 - May 2018** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
       * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
-      * [More about the UF University Scholars Program here](https://cur.aa.ufl.edu/university-scholars-program/)        
+      * <a href="https://cur.aa.ufl.edu/university-scholars-program/" target="_blank" rel="noreferrer">More about the UF University Scholars Program here </a>          
       
 **Jan 2018 - May 2018 Health Disparities Practicum Intern**  
 UF HealthStreet, University of Florida  
 
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
- * [More about UF HealthStreet here](http://healthstreet.program.ufl.edu/)    
+ * <a href="http://healthstreet.program.ufl.edu/" target="_blank" rel="noreferrer">More about UF HealthStreet here </a>      
       
 <span style="color:darkblue"><u>Talks</u></span>
 ======
@@ -97,7 +97,7 @@ UF HealthStreet, University of Florida
 
 **2019 - Present** Dean's Ambassador  
   
-[Click here and scroll to view my Ambassador spotlight!](https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/)   
+<a href="https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/" target="_blank" rel="noreferrer">Click here and scroll to view my Ambassador spotlight!</a>    
 * Serve as a liaison between the college and its students, alumni, faculty, and donors  
 * Plan events, escort, and engage with current and potential donors, candidates, and prominent leaders visiting the college  
 
