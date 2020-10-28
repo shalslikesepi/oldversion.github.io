@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-<a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noopener">Also available in PDF format.</a>.  <br/>
+<a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer">Also available in PDF format.</a>.  <br/>
 
 <span style="color:darkblue"><u>Education</u></span>
 ======
