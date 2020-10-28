@@ -43,7 +43,7 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
   * Supervisor: Jong Park, Ph.D., MPH  
-  * [More about the SPARK Internship Program here](https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/)    
+  * <a href="https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/" target="_blank" rel="noreferrer">More about the SPARK Internship Program here </a>    
   
  **2017-2019 University Scholars Research Assistant**   
  University Scholars Program, University of Florida  
