@@ -43,7 +43,7 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
   * Supervisor: Jong Park, Ph.D., MPH  
-  * <a href="https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/" target="_blank"rel="noopener noreferrer">More about the SPARK Internship Program here</a>  
+  * [More about the SPARK Internship Program here](https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/)    
   
  **2017-2019 University Scholars Research Assistant**   
  University Scholars Program, University of Florida  
@@ -51,18 +51,18 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
    * **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
       * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
       * Supervisor: Nosha Farhadfar, M.D.  
-      * <a href="https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/" target="_blank"rel="noopener noreferrer">More about the UF Health Cancer Center Scholars Program here</a>  
+      * [More about the UF Health Cancer Center Scholars Program here](https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/)    
      
    * **Feb 2017 - May 2018** Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in Health?  
       * Duties included: Conducting literature reviews, editing and submitting protocol documents, constructing Qualtrics survey materials, interpreting and               analyzing quantitative and qualitative results, preparing visual and written reports/manuscripts, presentation of findings at UF Undergraduate Symposium 2018  
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
-      * <a href="https://cur.aa.ufl.edu/university-scholars-program/" target="_blank"rel="noopener noreferrer">More about the UF University Scholars Program here</a>      
+      * [More about the UF University Scholars Program here](https://cur.aa.ufl.edu/university-scholars-program/)        
       
 **Jan 2018 - May 2018 Health Disparities Practicum Intern**  
 UF HealthStreet, University of Florida  
 
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
- * <a href="http://healthstreet.program.ufl.edu/" target="_blank"rel="noopener noreferrer">More about UF HealthStreet here</a>  
+ * [More about UF HealthStreet here](http://healthstreet.program.ufl.edu/)    
       
 <span style="color:darkblue"><u>Talks</u></span>
 ======
@@ -97,7 +97,7 @@ UF HealthStreet, University of Florida
 
 **2019 - Present** Dean's Ambassador  
   
-<a href="https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/" target="_blank"rel="noopener noreferrer">Click here and scroll to view my Ambassador spotlight!</a>   
+[Click here and scroll to view my Ambassador spotlight!](https://phhp.ufl.edu/deans-ambassador-program/deans-ambassador-spotlights-2/)   
 * Serve as a liaison between the college and its students, alumni, faculty, and donors  
 * Plan events, escort, and engage with current and potential donors, candidates, and prominent leaders visiting the college  
 
