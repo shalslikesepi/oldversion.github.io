@@ -11,7 +11,7 @@ excerpt: "Critical review presented for PHC6517: Public Health Concepts in Infec
 
 [Slides Available Here](http://shalslikesepi.github.io/files/SN_Malaria.pdf)  
 
-[Presentation Recording Available Here](https://youtu.be/fARKe7bL3Cs)  
+[Presentation Recording Available Here](https://youtu.be/fARKe7bL3Cs){:target="_blank"}    
 
 Semester: Fall 2020  
 
