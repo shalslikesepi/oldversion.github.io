@@ -9,7 +9,7 @@ location: "Gainesville, FL"
 excerpt: "Critical review presented for PHC6517: Public Health Concepts in Infectious Disease"
 ---
 
-[Slides Available Here](http://shalslikesepi.github.io/files/InfluenzaEstimates.pdf){:target="_blank"}      
+[Slides Available Here](http://shalslikesepi.github.io/files/Influenza Estimates.pdf){:target="_blank"}      
 
 [Presentation Recording Available Here](https://youtu.be/u_ccXJmmIKA){:target="_blank"}    
 
