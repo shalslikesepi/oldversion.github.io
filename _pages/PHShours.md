@@ -14,7 +14,7 @@ author_profile: true
 * Common Reader Book Discussion-What the Eyes Don't See      
 
 ## <u><span style="color:darkblue">Additional hours</span></u>     
-* Maintaining Immunizations Online Seminar  
+* <a href="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf" target="_blank" rel="noreferrer"> Maintaining Immunizations Online Seminar  
 * COVID-19 Contact Tracing Coursera  
 * Measuring and Maximizing Impact of COVID-19 Contact Tracing  
 * Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out  
