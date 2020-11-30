@@ -15,5 +15,8 @@ main:
     
   - title: "Coursework"
     url: /coursework/
+    
+  - title: "PHS Hours"
+    url: /PHShours/
 
  
