@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <span style="color:darkblue">PHS Hours</span>  
+title: <div align="center">PHS Hours</div>  
 permalink: /PHShours/
 author_profile: true
 ---  
