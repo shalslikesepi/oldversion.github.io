@@ -6,7 +6,7 @@ author_profile: true
 ---  
 <br/> Click below to view APE factual reports for each experiential activity.
 
-# <span style="color:darkblue">Pre-approved hours</span>     
+### <span style="color:darkblue">Pre-approved hours</span>     
 * Interprofessional Learning in Health Care (IPLH) 1  
 * Interprofessional Learning in Health Care (IPLH) 2  
 * Interprofessional Learning in Health Care (IPLH) 3  
