@@ -13,7 +13,7 @@ author_profile: true
 * Afternoon of Learning  
 * Common Reader Book Discussion-What the Eyes Don't See      
 
-# <span style="color:darkblue">Additional hours</span>     
+### <span style="color:darkblue">Additional hours</span>     
 * <a href="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf" target="_blank" rel="noreferrer"> Maintaining Immunizations Online Seminar<a>  
 * <a href="https://shalslikesepi.github.io/files/SN_APE 2 Contact Tracing 1.pdf" target="_blank" rel="noreferrer"> COVID-19 Contact Tracing Coursera<a>   
 * <a href="https://shalslikesepi.github.io/files/SN_APE 3 Contact Tracing 2.pdf" target="_blank" rel="noreferrer"> Measuring and Maximizing Impact of COVID-19 Contact Tracing<a>  
