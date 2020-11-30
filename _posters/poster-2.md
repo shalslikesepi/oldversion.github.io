@@ -1,10 +1,7 @@
 ---
 title: "Do Students Perceive That Participation in HOSA Develops the Skills Needed for Careers in
 Health?"
-excerpt: This research study analyzes the multifactorial relationship between participation in vocational preparation program Health Occupation Students of America (HOSA) and students’ perceived readiness to enter various fields of health. <br> <br> 
-<div align="center">
-   <a href="https://shalslikesepi.github.io/images/HOSA.png" target="_blank" rel="noreferrer">View Poster Here.</a>
-</div>
+excerpt: This research study analyzes the multifactorial relationship between participation in vocational preparation program Health Occupation Students of America (HOSA) and students’ perceived readiness to enter various fields of health. <br> <br> <a href="https://shalslikesepi.github.io/images/HOSA.png" target="_blank" rel="noreferrer">View Poster Here.</a>
 collection: posters
 ---
 
