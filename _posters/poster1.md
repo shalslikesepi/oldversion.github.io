@@ -1,6 +1,6 @@
 ---
 title: "Quality of Diet of Adult Hematopoietic Stem Cell Transplant Survivors"
-excerpt: "<br/><img src='/images/HCT.png'>"
+excerpt: "<a href="https://shalslikesepi.github.io/images/HCT.png" target="_blank" rel="noreferrer"></a>"
 collection: posters
 ---
 
