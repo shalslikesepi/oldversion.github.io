@@ -27,13 +27,12 @@ author_profile: true
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5ztr{background-color:#cbcefb;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-c4ww{background-color:#cbcefb;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-ev0v{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-8m8h{background-color:#cbcefb;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-kfkg{background-color:#dae8fc;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-n533{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
 </style>
@@ -42,49 +41,49 @@ author_profile: true
   <tr>
     <th class="tg-0pky"></th>
     <th class="tg-7btt">Experience</th>
-    <th class="tg-fymr"># of Hours</th>
-    <th class="tg-fymr">Total Hours</th>
-    <th class="tg-fymr">Factual Reports</th>
+    <th class="tg-7btt"># of Hours</th>
+    <th class="tg-7btt">Total Hours</th>
+    <th class="tg-7btt">Factual Reports</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ev0v">Pre-approved</td>
+    <td class="tg-n533">Pre-approved</td>
     <td class="tg-kfkg">Interprofessional Learning in Health Care (IPLH) 1</td>
     <td class="tg-kfkg">4</td>
     <td class="tg-kfkg">4</td>
     <td class="tg-x6qq"></td>
   </tr>
   <tr>
-    <td class="tg-ev0v"></td>
+    <td class="tg-n533"></td>
     <td class="tg-kfkg">Interprofessional Learning in Health Care (IPLH) 2</td>
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">7</td>
     <td class="tg-x6qq"></td>
   </tr>
   <tr>
-    <td class="tg-ev0v"></td>
+    <td class="tg-n533"></td>
     <td class="tg-kfkg">Interprofessional Learning in Health Care (IPLH) 3</td>
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">10</td>
     <td class="tg-x6qq"></td>
   </tr>
   <tr>
-    <td class="tg-ev0v"></td>
+    <td class="tg-n533"></td>
     <td class="tg-kfkg">Afternoon of Learning</td>
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">13</td>
     <td class="tg-x6qq"></td>
   </tr>
   <tr>
-    <td class="tg-ev0v"></td>
+    <td class="tg-n533"></td>
     <td class="tg-kfkg">Common Reader Book Discussion-What the Eyes Don’t See</td>
     <td class="tg-kfkg">6</td>
     <td class="tg-kfkg">19</td>
     <td class="tg-x6qq"></td>
   </tr>
   <tr>
-    <td class="tg-5ztr">Additional</td>
+    <td class="tg-8m8h">Additional</td>
     <td class="tg-c4ww">Maintaining Immunizations Online Seminar</td>
     <td class="tg-c4ww">1</td>
     <td class="tg-c4ww">20</td>
