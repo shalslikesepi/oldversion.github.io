@@ -79,21 +79,18 @@ author_profile: true
     <td class="tg-c4ww">6</td>
     <td class="tg-c4ww">26</td>
     <td class="tg-c4ww"><a href="https://shalslikesepi.github.io/files/SN_APE 2 Contact Tracing 1.pdf" target="_blank" rel="noreferrer"> COVID-19 Contact Tracing Coursera</a></td>
-  </tr>
   <tr>
     <td class="tg-61xu"></td>
     <td class="tg-c4ww">Measuring and Maximizing Impact of COVID-19 Contact Tracing</td>
     <td class="tg-c4ww">3</td>
     <td class="tg-c4ww">29</td>
     <td class="tg-c4ww"><a href="https://shalslikesepi.github.io/files/SN_APE 3 Contact Tracing 2.pdf" target="_blank" rel="noreferrer"> Measuring and Maximizing Impact of COVID-19 Contact Tracing</a></td>
-  </tr>
   <tr>
     <td class="tg-61xu"></td>
     <td class="tg-c4ww">Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out</td>
     <td class="tg-c4ww">5</td>
     <td class="tg-c4ww">34</td>
     <td class="tg-c4ww"><a href="https://shalslikesepi.github.io/files/SN_APE 4 Fighting COVID.pdf" target="_blank" rel="noreferrer"> Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out</a></td>
-  </tr>
   <tr>
     <td class="tg-61xu"></td>
     <td class="tg-c4ww">Essentials of Global Health</td>
