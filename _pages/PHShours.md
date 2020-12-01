@@ -73,7 +73,6 @@ author_profile: true
     <td class="tg-c4ww">1</td>
     <td class="tg-c4ww">20</td>
     <td class="tg-c4ww"><a href="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf" target="_blank" rel="noreferrer"> Maintaining Immunizations</a></td>    
-  </tr>
   <tr>
     <td class="tg-61xu"></td>
     <td class="tg-c4ww">COVID-19 Contact Tracing Coursera</td>
