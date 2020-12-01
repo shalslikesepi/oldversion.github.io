@@ -87,7 +87,7 @@ author_profile: true
     <td class="tg-c4ww">Maintaining Immunizations Online Seminar</td>
     <td class="tg-c4ww">1</td>
     <td class="tg-c4ww">20</td>
-    <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf" target="_blank" rel="noreferrer"&gt; Maintaining Immunizations Online Seminar&lt;a&gt;</td>
+    <td class="tg-c4ww">&lt;<a href>="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf"</a> target="_blank" rel="noreferrer"&gt; Maintaining Immunizations Online Seminar&lt;a&gt;</td>
   </tr>
   <tr>
     <td class="tg-61xu"></td>
