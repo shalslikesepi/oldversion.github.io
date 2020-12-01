@@ -45,7 +45,6 @@ author_profile: true
     <th class="tg-fymr"># of Hours</th>
     <th class="tg-fymr">Total Hours</th>
     <th class="tg-fymr">Factual Reports</th>
-    <th class="tg-0pky"></th>
   </tr>
 </thead>
 <tbody>
@@ -55,7 +54,6 @@ author_profile: true
     <td class="tg-kfkg">4</td>
     <td class="tg-kfkg">4</td>
     <td class="tg-x6qq"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-ev0v"></td>
@@ -63,7 +61,6 @@ author_profile: true
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">7</td>
     <td class="tg-x6qq"></td>
-    <td class="tg-0pky">COVID-19 Contact Tracing Coursera</td>
   </tr>
   <tr>
     <td class="tg-ev0v"></td>
@@ -71,7 +68,6 @@ author_profile: true
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">10</td>
     <td class="tg-x6qq"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-ev0v"></td>
@@ -79,7 +75,6 @@ author_profile: true
     <td class="tg-kfkg">3</td>
     <td class="tg-kfkg">13</td>
     <td class="tg-x6qq"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-ev0v"></td>
@@ -87,7 +82,6 @@ author_profile: true
     <td class="tg-kfkg">6</td>
     <td class="tg-kfkg">19</td>
     <td class="tg-x6qq"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-5ztr">Additional</td>
@@ -95,7 +89,6 @@ author_profile: true
     <td class="tg-c4ww">1</td>
     <td class="tg-c4ww">20</td>
     <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 1 Immunizations Seminar.pdf" target="_blank" rel="noreferrer"&gt; Maintaining Immunizations Online Seminar&lt;a&gt;</td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu"></td>
@@ -103,7 +96,6 @@ author_profile: true
     <td class="tg-c4ww">6</td>
     <td class="tg-c4ww">26</td>
     <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 2 Contact Tracing 1.pdf" target="_blank" rel="noreferrer"&gt; COVID-19 Contact Tracing Coursera&lt;a&gt;</td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu"></td>
@@ -111,7 +103,6 @@ author_profile: true
     <td class="tg-c4ww">3</td>
     <td class="tg-c4ww">29</td>
     <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 3 Contact Tracing 2.pdf" target="_blank" rel="noreferrer"&gt; Measuring and Maximizing Impact of COVID-19 Contact Tracing&lt;a&gt;</td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu"></td>
@@ -119,7 +110,6 @@ author_profile: true
     <td class="tg-c4ww">5</td>
     <td class="tg-c4ww">34</td>
     <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 4 Fighting COVID.pdf" target="_blank" rel="noreferrer"&gt; Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out&lt;a&gt;</td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu"></td>
@@ -127,7 +117,6 @@ author_profile: true
     <td class="tg-c4ww">65</td>
     <td class="tg-c4ww">99</td>
     <td class="tg-c4ww">&lt;a href="https://shalslikesepi.github.io/files/SN_APE 5 Global Health.pdf" target="_blank" rel="noreferrer"&gt; Essentials of Global Health&lt;a&gt;</td>
-    <td class="tg-0pky"></td>
   </tr>
 </tbody>
 </table>
