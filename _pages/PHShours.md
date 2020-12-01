@@ -4,7 +4,8 @@ title: <div align="center">PHS Hours</div>
 permalink: /PHShours/
 author_profile: true
 ---  
-<br/>  <div align="center">Click below to view APE factual reports for each experiential activity.</div>
+<br/>  
+<p style="text-align: center;">Click below to view APE factual reports for each experiential activity.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
