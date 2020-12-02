@@ -92,8 +92,8 @@ UF HealthStreet, University of Florida
 
 **2020 - 2020** SWAG Family Resource Center  
 * Served as an intern Jan-Mar, internship cut short due to COVID-19  
-* Assisted with the daily operations of the Family Resource Center serving unserved residents in Linton Oaks, Gainesville  
-* Assisted with homework help for community youth, performed needs assessments for emergency resources, and aided in community outreach and canvassing  
+* Assisted with the daily operations of the Family Resource Center serving residents in the Linton Oaks neighborhood in Gainesville, FL  
+* Assisted with homework help for community youth, needs assessments for emergency resources, and aided in community outreach and canvassing  
 
 **2019 - Present** Dean's Ambassador  
   
