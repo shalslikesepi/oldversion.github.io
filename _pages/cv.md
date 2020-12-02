@@ -84,7 +84,7 @@ UF HealthStreet, University of Florida
 <span style="color:darkblue"><u>Service and Leadership</u></span>
 ======
 **2020 - Present** contraCOVID Gainesville  
-* Serve on the resource renewal team updating resource guide educational and childcare sections for local community members and underserved groups in regard to COVID-19.  
+* Serve on the resource renewal team updating education and childcare sections of resource guide for local community members and underserved groups in regard to COVID-19.  
   
 **2020 - Present** Community Health Oriented Mentorship Program (CHOMP)
 * Provide advice and support to mentee(s) in regard to academic and professional pursuits  
