@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shalini Nair"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Shalini Nair"
-description              : &description ""
+description              : &description "MPH Candidate in Epidemiology at the University of Florida"
 url                      : https://shalininair.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shalslikesepi/shalslikesepi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &twitter "shalslikesepi"
 facebook:
   username               :
   app_id                 :
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-QDEM14J83Q"
 
 
 # Site Author
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@shalslikesepi"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
