@@ -101,7 +101,7 @@ $navicon-link-color-hover   : $navbar-color !default;
 $footer-background-color    : $info-color !default;
 
 .page__footer {
-  color: #fff !important; // override
+  color: $info-color !important; // override
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
