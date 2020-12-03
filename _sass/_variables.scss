@@ -97,16 +97,7 @@ $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
 $masthead-link-color        : $primary-color !default;
 $masthead-link-color-hover  : $nav-color !default;
-$navicon-link-color-hover   : $navbar-color !default;
-$footer-background-color    : $info-color !default;
-
-.page__footer {
-  color: $info-color !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
+$navicon-link-color-hover   : $navbar-color;
 
 
 /*
