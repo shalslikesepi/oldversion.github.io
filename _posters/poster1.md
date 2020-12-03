@@ -1,6 +1,6 @@
 ---
 title: "Quality of Diet of Adult Hematopoietic Stem Cell Transplant Survivors"
-excerpt: This study aimed to assess dietary intake of allogeneic and autologous HSCT survivors in order to provide adequate information for development of a targeted nutritional intervention. <br><br><a href="https://shalslikesepi.github.io/images/HCT.png" target="_blank" rel="noreferrer">View Poster Here.</a>
+excerpt: This study aimed to assess dietary intake of allogeneic and autologous HSCT survivors in order to provide adequate information for development of a targeted nutritional intervention. <br><br><a href="https://shalslikesepi.github.io/images/HCT.png" class = "button" target="_blank" rel="noreferrer">View Poster Here.</a>
 collection: posters
 ---
 
