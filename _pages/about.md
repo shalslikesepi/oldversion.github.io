@@ -20,12 +20,6 @@ Finally, I most recently worked as a data specialist under Dr. Debra Kelly in th
 
 In addition to my research, my graduate curriculum has given me a strong foundation in data analysis in SAS and R. The majority of my graduate electives have focused on the dynamics and epidemiology of infectious diseases. Relevant coursework include Virology, Infectious Disease Epidemiology, Epidemiology Methods I and II, and Public Health Computing. I am particularly fascinated by emerging pathogens and the complex factors associated with their development and spread. The application of quantitative modeling methods to this dynamic is a forefront that I would like to pivot to explore during my doctoral studies.   
 
-<div>
-<img align="left" src="/images/moffitt.jpg?raw=true" alt="Photo" style="width: 300px"/>   
-</div>
-
-<br> <br> <br> <br> <br><br> <br> <br>  
-
 <html>
 <head>
 <style>
