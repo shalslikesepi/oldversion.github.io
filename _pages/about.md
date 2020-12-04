@@ -50,8 +50,8 @@ I am particularly fascinated by emerging pathogens and the complex factors assoc
 </body>  
 </html>
 
-## Interests  
-  
+<center><h2>Interests</h2></center>  
+
 * Infectious Disease Epidemiology  
 * Quantitative Methods 
 * Health Disparities 
