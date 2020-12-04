@@ -45,7 +45,7 @@ In addition to my research, my graduate curriculum has given me a strong foundat
 
 <div class="row">
   <div class="column">
-    <img src="/images/year1.jpg?raw=true" alt="year1" style="width:100%">
+    <img src="/images/moffitt2.jpg?raw=true" alt="moffitt2" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/moffitt.jpg?raw=true" alt="Moffitt" style="width:100%">
