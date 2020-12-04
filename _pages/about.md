@@ -24,7 +24,43 @@ In addition to my research, my graduate curriculum has given me a strong foundat
 <img align="left" src="/images/moffitt.jpg?raw=true" alt="Photo" style="width: 300px"/>   
 </div>
 
-<br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br>   
+<br> <br> <br> <br> <br><br> <br> <br>  
+
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/year1.jpg?raw=true" alt="year1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/moffitt.jpg?raw=true" alt="Moffitt" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/year2.jpg?raw=true" alt="year2" style="width:100%">
+  </div>
+</div>
+
+</body>
 
 ## <span style="color:darkblue">Interests</span>  
   
