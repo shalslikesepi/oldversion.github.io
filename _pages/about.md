@@ -26,6 +26,7 @@ In addition to my research, my graduate curriculum has given me a strong foundat
 
 <br> <br> <br> <br> <br><br> <br> <br>  
 
+<html>
 <head>
 <style>
 * {
@@ -60,7 +61,8 @@ In addition to my research, my graduate curriculum has given me a strong foundat
   </div>
 </div>
 
-</body>
+</body>  
+</html>
 
 ## <span style="color:darkblue">Interests</span>  
   
