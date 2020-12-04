@@ -24,7 +24,7 @@ In addition to my research, my graduate curriculum has given me a strong foundat
 <img align="left" src="/images/moffitt.jpg?raw=true" alt="Photo" style="width: 300px"/>   
 </div>
 
-<br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br>  
+<br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br> <br> <br><br> <br> <br>   
 
 ## <span style="color:darkblue">Interests</span>  
   
