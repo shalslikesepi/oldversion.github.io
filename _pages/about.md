@@ -50,7 +50,7 @@ I am particularly fascinated by emerging pathogens and the complex factors assoc
 </body>  
 </html>
 
-## <div style="text-align:center"><span style="color:darkblue">Interests</span></div>  
+## <span style="color:darkblue">Interests</span>  
   
 * Infectious Disease Epidemiology  
 * Quantitative Methods 
