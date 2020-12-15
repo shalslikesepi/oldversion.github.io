@@ -14,7 +14,7 @@ redirect_from:
 <span style="color:darkblue"><u>Education</u></span>
 ======
 * Master of Public Health, University of Florida, 2021 (Expected)  
-    * Specialization: Epidemiology
+    * Concentration: Epidemiology
     * GPA: 4.0/4.0
 * Bachelor of Public Health, University of Florida, 2020  
     * Minors: Health Disparities in Society, Anthropology  
