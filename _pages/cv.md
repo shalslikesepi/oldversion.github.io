@@ -29,7 +29,7 @@ redirect_from:
 
 <span style="color:darkblue"><u>Research Experience</u></span>
 ======
-**Aug 2019 - May 2020 Research Assistant**  
+**Aug 2019 - May 2020** Research Assistant  
 Department of Biobehavioral Nursing Science, University of Florida
 
   * Protocols:   
@@ -39,14 +39,14 @@ Department of Biobehavioral Nursing Science, University of Florida
  * Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
  * Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
 
-**May 2019 - Aug 2019 SPARK Intern**  
+**May 2019 - Aug 2019** SPARK Intern  
 Department of Cancer Epidemiology, Moffitt Cancer Center 
 
   * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
   * Supervisor: Jong Park, Ph.D., MPH  
   * <a href="https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/" target="_blank" rel="noreferrer">More about the SPARK Internship Program here </a>    
   
- **2017-2019 University Scholars Research Assistant**   
+ **2017-2019** University Scholars Research Assistant   
  University Scholars Program, University of Florida  
   
    * **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
@@ -59,7 +59,7 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
       * Supervisor: Laura K. Guyer, Ph.D., Med, RDN  
       * <a href="https://cur.aa.ufl.edu/university-scholars-program/" target="_blank" rel="noreferrer">More about the UF University Scholars Program here </a>          
       
-**Jan 2018 - May 2018 Health Disparities Practicum Intern**  
+**Jan 2018 - May 2018** Health Disparities Practicum Intern  
 UF HealthStreet, University of Florida  
 
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
@@ -122,10 +122,10 @@ UF HealthStreet, University of Florida
 **Student Assistant**  
   
   
-* UF College of Dentistry (Oct 2019 - Present)  
+* **Oct 2019 - Present** UF College of Dentistry    
     * Duties include: assist with creation and linkage of video materials for DMD courses, perform video edits, uploads, and transfers, provide technical assistance to students and professors, assist with management of dental classrooms and technology  
     
-* UF Disability Resource Center (Aug 2017 - Oct 2019)  
+* **Aug 2017 - Oct 2019** UF Disability Resource Center   
     * Duties included: serve as primary contact for student, parent, and faculty inquiries, manage requests and fulfill accommodation letters for 1000+ students, handle high volume of calls and walk in traffic, schedule appointments and manage staff calendars
 
 
