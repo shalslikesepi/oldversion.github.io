@@ -90,6 +90,4 @@ author_profile: true
     <td class="tg-qr4s">99</td>
     <td class="tg-rce2"><a href="https://shalslikesepi.github.io/files/SN_APE 5 Global Health.pdf" target="_blank" rel="noreferrer"> Essentials of Global Health</a></td>
   </tr>
-</tbody>
-</table></div>
 
