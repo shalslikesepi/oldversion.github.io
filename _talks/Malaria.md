@@ -14,7 +14,7 @@ excerpt: "Critical review presented for PHC6517: Public Health Concepts in Infec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fARKe7bL3Cs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
   
-  
+<br>
 
 Semester: Fall 2020  
 
