@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-   
-   
+<br>
 <div align="center"><a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer"><b>Also available in PDF format.</b></a></div>
 
 <span style="color:darkblue"><u>Education</u></span>
