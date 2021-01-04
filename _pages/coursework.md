@@ -12,8 +12,8 @@ author_profile: true
 * <span style="color:royalblue"><b>PHC6000 Epidemiology Methods I </b></span>     
 * PHC6011 Epidemiology Methods II       
 
-## <u><span style="color:darkblue">Biostatistical Methods</span></u>     
-* <span style="color:royalblue"><b>PHC6052 Introduction to Biostatistical Methods</b></span>   
+## <u><span style="color:darkblue">Biostatistical Methods Core</span></u>     
+* <span style="color:royalblue">PHC6052 Introduction to Biostatistical Methods</span>   
 * <span style="color:royalblue"><b>PHC6053 Regression Methods</b></span>    
 * PHC6089 Public Health Computing   
 
@@ -21,10 +21,13 @@ author_profile: true
 * PHC6002 Epidemiology of Infectious Diseases  
 * PHC6517 Public Health Concepts in Infectious Disease  
 * PHC6937 Public Health Virology   
+* PHC6519 Zoonotic Diseases in Humans and Animals
 
 ## <u><span style="color:darkblue">Public Health Core</span></u>     
 * <span style="color:royalblue"><b>PHC6313 Environmental Health Concepts</b></span>    
 * HSA6114 Introduction to the US Health Care System    
 * PHC6003 Epidemiology of Chronic Diseases   
-* PHC6410 Psychological, Social, and Behavioral Issues in Public Health   
+* PHC6410 Psychological, Social, and Behavioral Issues in Public Health  
+* PHC6940 - Master of Public Health Capstone  
+* PHC6941 - MPH Applied Practice Experience (Final Internship)
 
