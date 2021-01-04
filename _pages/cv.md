@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <div align="center">Curriculum Vitae </br></div>  
+title: <div align="center">Curriculum Vitae </div>  
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}  
 
-    
+   
+   
 <div align="center"><a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer"><b>Also available in PDF format.</b></a></div>
 
 <span style="color:darkblue"><u>Education</u></span>
