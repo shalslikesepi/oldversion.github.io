@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-<div align="center"><a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer"><b>Also available in PDF format.</b></a></div>  <br/>
+<div align="center"><a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer"><b>Also available in PDF format.</b></a></div>  <br/><br/>
 
 <span style="color:darkblue"><u>Education</u></span>
 ======
