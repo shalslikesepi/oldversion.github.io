@@ -3,8 +3,6 @@ permalink: /
 title: <div align="center">About </div>  
 excerpt: "About me"
 author_profile: true
-image:
-  feature: /images/header.jpg
 redirect_from: 
   - /about/
   - /about.html
