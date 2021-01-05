@@ -57,7 +57,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $black;
+$text-color                 : #000d33;
 $border-color               : mix(#fff, #000d33, 75%);
 $footer-background-color    : #6a5acd;
 
@@ -96,7 +96,7 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $text-color !default;
 $masthead-link-color-hover  : $text-color !default;
-$navicon-link-color-hover   : mix(#fff, $info-color, 80%) !default;
+$navicon-link-color-hover   : mix(#fff, $text-color, 80%) !default;
 
 .page__footer {
   background-color: #6a5acd !important; // override
