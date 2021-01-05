@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /about/
 title: <div align="center">About </div>  
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
   
 Welcome to my page! My name is Shalini (SHAH-lynn-ee) Nair. I earned my <a href="https://undergrad.phhp.ufl.edu/program-overview/bph/" target="_blank" rel="noreferrer">Bachelor of Public Health </a> at the University of Florida, where I gained three years of research experience primarily in cancer epidemiology addressing transplant outcomes. I completed an <a href="https://mph.ufl.edu/about/mph/collaborative-and-joint-mph-degrees/combination-bachelors-mph/" target="_blank" rel="noreferrer">advanced track combined degree program</a>, where I began coursework towards a graduate degree during the third year of my undergraduate career.   
