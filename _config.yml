@@ -11,6 +11,7 @@ title                    : "Shalini Nair"
 title_separator          : "|"  
 name                     : &name "Shalini Nair"
 description              : &description "MPH Candidate in Epidemiology at the University of Florida"
+logo                     : /images/icon.png
 url                      : https://shalininair.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shalslikesepi/shalslikesepi.github.io"
