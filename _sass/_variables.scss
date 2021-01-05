@@ -96,7 +96,7 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $text-color !default;
 $masthead-link-color-hover  : #3200b0 !default;
-$navicon-link-color-hover   : mix(#fff, #3200b0, 80%) !default;
+$navicon-link-color-hover   : #3200b0 !default;
 
 .page__footer {
   background-color: #6a5acd !important; // override
