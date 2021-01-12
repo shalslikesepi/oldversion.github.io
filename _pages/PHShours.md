@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <div align="center">PHS Hours </div>  
+title: <div align="center">Public Health Service Hours </div>  
 permalink: /PHShours/
 author_profile: true
 ---  
