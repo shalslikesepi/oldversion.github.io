@@ -12,7 +12,7 @@ redirect_from:
 <div align="center"><a href="https://shalslikesepi.github.io/files/Shalini Nair CV Web.pdf" target="_blank" rel="noreferrer"><b>Also available in PDF format.</b></a></div>
 <hr size="6" width="100%" color="navy">
 
-<span style="color:darkblue"><u>Education</u></span>
+<span style="color:darkblue">Education</span>
 ======
 * Master of Public Health, University of Florida, 2021 (Expected)  
     * Concentration: Epidemiology
@@ -22,13 +22,14 @@ redirect_from:
     * Honors: Cum Laude  
     * GPA: 3.84/4.0  
     
-<span style="color:darkblue"><u>Publications</u></span>
+<span style="color:darkblue">Publications</span>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<span style="color:darkblue"><u>Research Experience</u></span>
+<hr size="6" width="100%" color="navy">
+<span style="color:darkblue">Research Experience</span>
 ======
 **Aug 2019 - May 2020** Research Assistant  
 Department of Biobehavioral Nursing Science, University of Florida
@@ -66,13 +67,15 @@ UF HealthStreet, University of Florida
  * Duties included: developing and maintaining health education libraries, maintaining and updating client records, referring community members to health services, collecting vital statistics, actively recruiting members into research studies, developing a novel resource tracking system for community health workers (CHWs) to use in the field  
  * <a href="http://healthstreet.program.ufl.edu/" target="_blank" rel="noreferrer">More about UF HealthStreet here </a>      
       
-<span style="color:darkblue"><u>Talks</u></span>
+<hr size="6" width="100%" color="navy">
+<span style="color:darkblue">Talks</span>
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>    
   
-<span style="color:darkblue"><u>Skills</u></span>
+<hr size="6" width="100%" color="navy">
+<span style="color:darkblue">Skills</span>
 ======
 * Data analysis  
   * SAS
@@ -83,7 +86,8 @@ UF HealthStreet, University of Florida
 * Patient recruitment and consent  
 * Communicating scientific information to broad audiences   
 
-<span style="color:darkblue"><u>Service and Leadership</u></span>
+<hr size="6" width="100%" color="navy">
+<span style="color:darkblue">Service and Leadership</span>
 ======
 **2020 - Present** contraCOVID Gainesville  
 * Serve on the resource renewal team updating education and childcare sections of resource guide for local community members and underserved groups in regard to COVID-19.   
@@ -116,8 +120,8 @@ UF HealthStreet, University of Florida
 * Completed over 60 hours of community service within the Gainesville area at: Ronald McDonald House, Boys and Girls Club, Children’s Home Society, Alachua County Habitat for Humanity  
 * Campaigned and was elected (1 year term) as Dance Marathon Chair   
 
-
-<span style="color:darkblue"><u>Non-Academic Employment</u></span>  
+<hr size="6" width="100%" color="navy">
+<span style="color:darkblue">Non-Academic Employment</span>  
 ======  
 
 **Student Assistant**  
