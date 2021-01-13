@@ -20,8 +20,9 @@ redirect_from:
 * Bachelor of Public Health, University of Florida, 2020  
     * Minors: Health Disparities in Society, Anthropology  
     * Honors: Cum Laude  
-    * GPA: 3.84/4.0  
+    * GPA: 3.84/4.0   
     
+<hr size="6" width="100%" color="navy">  
 <span style="color:darkblue">Publications</span>
 ======
   <ul>{% for post in site.publications reversed %}
