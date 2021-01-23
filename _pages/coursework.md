@@ -53,7 +53,7 @@ author_profile: true
 <p style="text-align: center;font-size: 16px;">PHC6937 Public Health Virology</p>
 <p style="text-align: center;font-size: 16px;"><span style="color: #3200b0;"><strong>PHC6519 Zoonotic Diseases in Humans and Animals</strong></span></p>
 </td>
-<td><img src="https://cdn.thewire.in/wp-content/uploads/2020/07/28070938/viruses-1600x914.jpg" alt="" width="183" height="107" /></td>
+<td style= "text-align:center;"><img src="https://cdn.thewire.in/wp-content/uploads/2020/07/28070938/viruses-1600x914.jpg" alt="" width="183" height="107" /></td>
 </tr>
 </tbody>
 </table>
