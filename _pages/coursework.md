@@ -10,6 +10,7 @@ br {
   content: "";
   border-bottom: 5px solid transparent; 
 }
+}
     
 <p style="text-align: center;font-size: 20px;"><strong>Epidemiology Core</strong></p>
 <hr size="6" width="100%" color="navy" />
