@@ -10,7 +10,7 @@ author_profile: true
 <table style="border-collapse: collapse; width: 100%; height: 248px;" border="1">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 19.8285%; text-align: center; font-size: 16px; height: 18px;" colspan="5">
+<td style="width: 19.8285%; text-align: center; font-size: 20px; height: 18px;" colspan="5">
 <p><span style="color: #1900b5;"><strong>Pre-Approved Hours</strong></span></p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ author_profile: true
 <table style="height: 280px; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 50px;">
-<td style="width: 110.341%; font-size: 16px; height: 50px;" colspan="6">
+<td style="width: 110.341%; font-size: 20px; height: 50px;" colspan="6">
 <p style="text-align: center;"><span style="color: #1900b5;"><strong>Additional Approved Hours</strong></span></p>
 </td>
 </tr>
