@@ -41,7 +41,7 @@ author_profile: true
 </div>
 </div>
 </td>
-<td style="width: 29.058%; height: 43px; text-align: center;">Common Reader Book Discussion - What the Eyes Don't See</td>
+<td style="width: 29.058%; height: 43px; text-align: center;font-size: 16px;">Common Reader Book Discussion - What the Eyes Don't See</td>
 <td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">6</td>
 <td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">9</td>
 </tr>
