@@ -7,7 +7,7 @@ author_profile: true
     
 <hr size="6" width="100%" color="navy">
     
-<table style="width: 520px; margin-left: auto; margin-right: auto;" border="1">
+<table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr>
 <td style="width: 511.354px; text-align: center; font-size: 18px;">Completed Courses | <span style="color: #3200b0;"><strong>In Progress Courses</strong></span></td>
