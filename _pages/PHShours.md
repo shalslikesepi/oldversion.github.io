@@ -11,6 +11,77 @@ author_profile: true
 
 
 
-
+<table style="height: 100%; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr style="height: 15px;">
+<td style="width: 20%; height: 15px; text-align: center; font-size: 16px;"><strong>Date</strong></td>
+<td style="width: 29.058%; height: 15px; text-align: center; font-size: 16px;"><strong>Experience</strong></td>
+<td style="width: 10.942%; height: 15px; text-align: center; font-size: 16px;"><strong># of Hours</strong></td>
+<td style="width: 20%; height: 15px; text-align: center; font-size: 16px;"><strong>Total Hours</strong></td>
+<td style="width: 20%; height: 15px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td class="selected" style="width: 20%; text-align: center; height: 43px; font-size: 16px;">
+<div class="wrap">
+<div>
+<p><strong>08/29/2019</strong></p>
+</div>
+</div>
+</td>
+<td style="width: 29.058%; height: 43px; text-align: center; font-size: 16px;">Afternoon of Learning</td>
+<td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">3</td>
+<td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">3</td>
+<td style="width: 20%; height: 215px; font-size: 16px;" rowspan="5"><img src="https://pbs.twimg.com/media/DGtemVQWAAABJCF.jpg" alt="" width="209" height="209" /></td>
+</tr>
+<tr style="height: 43px;">
+<td class="selected" style="width: 20%; text-align: center; height: 43px; font-size: 16px;">
+<div class="wrap">
+<div>
+<p><strong>09/19/2019</strong></p>
+</div>
+</div>
+</td>
+<td style="width: 29.058%; height: 43px; text-align: center;">Common Reader Book Discussion - What the Eyes Don't See</td>
+<td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">6</td>
+<td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">9</td>
+</tr>
+<tr style="height: 43px;">
+<td class="selected" style="width: 20%; text-align: center; height: 43px; font-size: 16px;">
+<div class="wrap">
+<div>
+<p><strong>10/10/2019</strong></p>
+</div>
+</div>
+</td>
+<td style="width: 29.058%; height: 43px; text-align: center; font-size: 16px;">Interprofessional Learning in Health Care (IPLH) 1</td>
+<td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">4</td>
+<td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">13</td>
+</tr>
+<tr style="height: 43px;">
+<td class="selected" style="width: 20%; text-align: center; height: 43px; font-size: 16px;">
+<div class="wrap">
+<div>
+<p><strong>01/09/2020</strong></p>
+</div>
+</div>
+</td>
+<td style="width: 29.058%; height: 43px; text-align: center; font-size: 16px;">Interprofessional Learning in Health Care (IPLH) 2</td>
+<td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">3</td>
+<td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">16</td>
+</tr>
+<tr style="height: 43px;">
+<td class="selected" style="width: 20%; text-align: center; height: 43px; font-size: 16px;">
+<div class="wrap">
+<div>
+<p><strong>02/13/2020</strong></p>
+</div>
+</div>
+</td>
+<td style="width: 29.058%; height: 43px; text-align: center; font-size: 16px;">Interprofessional Learning in Health Care (IPLH) 3</td>
+<td style="width: 10.942%; height: 43px; text-align: center; font-size: 16px;">3</td>
+<td style="width: 20%; height: 43px; text-align: center; font-size: 16px;">19</td>
+</tr>
+</tbody>
+</table>
 
 
