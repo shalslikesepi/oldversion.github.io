@@ -4,7 +4,7 @@ title: <div align="center">Coursework </div>
 permalink: /coursework/
 author_profile: true
 ---  
-    
+<div align="center">Completed Courses | <span style="color: #3200b0;"><strong>In Progress Courses</strong></span></div>    
 <hr size="6" width="100%" color="navy">
     
 <table style="margin-left: auto; margin-right: auto;" border="1">
