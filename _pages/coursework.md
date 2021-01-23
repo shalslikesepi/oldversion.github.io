@@ -26,7 +26,7 @@ author_profile: true
 <table style="height: 15px; width: 517px; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 95px;">
-<td style="width: 262.465px; height: 15px;">
+<td style="width: 262.465px; height: 15px;font-size:16px;">
 <p style="text-align: center;">PHC6001 Principles of Epidemiology in Public Health</p>
 <p style="text-align: center;">PHC6000 Epidemiology Methods I</p>
 <p style="text-align: center;">PHC6011 Epidemiology Methods II</p>
@@ -41,7 +41,7 @@ author_profile: true
 <tbody>
 <tr style="height: 123px;">
 <td style="height: 123px; width: 208.021px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://medicine-iu-edu.azureedge.net/-/media/department/biostatistics/hero_iusmbiostatisticsx87182.jpg?rev=ad1f995ebe0749bab162508326ee4e86&amp;h=960&amp;w=1920&amp;la=en&amp;hash=002A8B216425B75B29F6E9C010AA9FAD" alt="" width="199" height="101" /></td>
-<td style="height: 123px; width: 303.576px;">
+<td style="height: 123px; width: 303.576px;font-size:16px;">
 <p style="text-align: center;">PHC6052 Introduction to Biostatistical Methods</p>
 <p style="text-align: center;">PHC6052 Regression Methods</p>
 <p style="text-align: center;">PHC6089 Public Health Computing</p>
