@@ -5,12 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---  
 <div align="center">Completed Courses | <span style="color: #3200b0;"><strong>In Progress Courses</strong></span></div>    
-br {
-  display: block;
-  content: "";
-  border-bottom: 5px solid transparent; 
-}
-}
+
     
 <p style="text-align: center;font-size: 20px;"><strong>Epidemiology Core</strong></p>
 <hr size="6" width="100%" color="navy" />
