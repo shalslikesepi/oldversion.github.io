@@ -104,7 +104,7 @@ author_profile: true
 <td style="width: 1.79533%; height: 15px;">&nbsp;</td>
 </tr>
 <tr style="height: 43px;">
-<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><span style="color: #000d33;">04/28/2020</span></td>
+<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">04/28/2020</span></strong></td>
 <td style="width: 29.4091%; height: 43px; font-size: 16px; text-align: center;"><span style="color: #000d33;">Maintaining Immunizations Online Seminar</span></td>
 <td style="width: 18.1233%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">1</span></td>
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">20</span></td>
@@ -113,7 +113,7 @@ author_profile: true
 <td style="width: 1.79533%; height: 215px; font-size: 16px;" rowspan="5"><img src="https://pbs.twimg.com/media/DGtemVQWAAABJCF.jpg" alt="" width="209" height="209" /></td>
 </tr>
 <tr style="height: 43px;">
-<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><span style="color: #000d33;">05/19/2020</span></td>
+<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">05/19/2020</span></strong></td>
 <td style="width: 29.4091%; text-align: center; font-size: 16px;"><span style="color: #000d33;">COVID-19 Contact Tracing Coursera</span></td>
 <td style="width: 18.1233%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">6</span></td>
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">26</span></td>
@@ -121,7 +121,7 @@ author_profile: true
 <td style="width: 35.3411%; text-align: center; font-size: 16px;"><span style="color: #6a5acd;"><strong><a style="color: #6a5acd;" href="https://shalininair.com/files/Contact%20Tracing%201.pdf" target="_blank" rel="noopener">Click to View</a></strong></span></td>
 </tr>
 <tr style="height: 43px;">
-<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><span style="color: #000d33;">08/03/2020</span></td>
+<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">08/03/2020</span></strong></td>
 <td style="width: 29.4091%; height: 43px; font-size: 16px; text-align: center;"><span style="color: #000d33;">Measuring and Maximizing Impact of COVID-19 Contact Tracing</span></td>
 <td style="width: 18.1233%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">3</span></td>
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">29</span></td>
@@ -129,7 +129,7 @@ author_profile: true
 <td style="width: 35.3411%; text-align: center; font-size: 16px;"><span style="color: #6a5acd;"><strong><a style="color: #6a5acd;" href="https://shalininair.com/files/Contact%20Tracing%202.pdf" target="_blank" rel="noopener">Click to View</a></strong></span></td>
 </tr>
 <tr style="height: 43px;">
-<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><span style="color: #000d33;">08/05/2020</span></td>
+<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">08/05/2020</span></strong></td>
 <td style="width: 29.4091%; height: 43px; font-size: 16px; text-align: center;"><span style="color: #000d33;">Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out</span></td>
 <td style="width: 18.1233%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">5</span></td>
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">34</span></td>
@@ -137,7 +137,7 @@ author_profile: true
 <td style="width: 35.3411%; text-align: center; font-size: 16px;">&nbsp;</td>
 </tr>
 <tr style="height: 43px;">
-<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><span style="color: #000d33;">09/05/2020</span></td>
+<td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">09/05/2020</span></strong></td>
 <td style="width: 29.4091%; height: 43px; font-size: 16px; text-align: center;"><span style="color: #000d33;">Essentials of Global Health</span></td>
 <td style="width: 18.1233%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">65</span></td>
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">99</span></td>
