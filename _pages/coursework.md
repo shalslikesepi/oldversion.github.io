@@ -8,7 +8,7 @@ author_profile: true
 <hr size="6" width="100%" color="navy">
     
 <p style="text-align: center;font-size: 20px;"><strong>Epidemiology Core</strong></p>
-<hr size="6" width="100% color="navy"" />
+<hr size="6" width="100%" color="navy" />
 <table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 95px;">
@@ -22,7 +22,7 @@ author_profile: true
 </tbody>
 </table>
 <p style="text-align: center;font-size: 20px;"><strong>Biostatistics Core</strong></p>
-<hr size="6" width="100% color="navy" />
+<hr size="6" width="100%" color="navy" />
 <table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 123px;">
@@ -36,7 +36,7 @@ author_profile: true
 </tbody>
 </table>
 <p style="text-align: center;font-size: 20px;"><strong>Infectious Disease Core</strong></p>
-<hr size="6" width="100% color="navy" />
+<hr size="6" width="100%" color="navy" />
 <table border="1">
 <tbody>
 <tr>
@@ -51,7 +51,7 @@ author_profile: true
 </tbody>
 </table>
 <p style="text-align: center;font-size: 20px;"><strong>Public Health (General) Core</strong></p>
-<hr size="6" width="100% color="navy" />
+<hr size="6" width="100%" color="navy" />
 <table border="1">
 <tbody>
 <tr>
