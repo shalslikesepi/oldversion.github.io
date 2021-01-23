@@ -92,10 +92,10 @@ author_profile: true
 
 
 
-<table style="border-collapse: collapse; width: 101.212%; height: 230px;" border="1">
+<table style="border-collapse: collapse; width: 74.8154%; height: 230px;" border="1">
 <tbody>
 <tr>
-<td style="width: 7.62024%; text-align: center; font-size: 16px;" colspan="7">
+<td style="width: 110.341%; text-align: center; font-size: 16px;" colspan="6">
 <p><span style="color: #1900b5;"><strong>Additional Approved Hours</strong></span></p>
 </td>
 </tr>
@@ -106,7 +106,6 @@ author_profile: true
 <td style="width: 6.64273%; height: 15px; text-align: center; font-size: 16px;"><span style="color: #000d33;"><strong>Total Hours</strong></span></td>
 <td style="width: 13.2047%; text-align: center; font-size: 16px;"><span style="color: #000d33;"><strong>Factual Reports</strong></span></td>
 <td style="width: 35.3411%; text-align: center; font-size: 16px;"><span style="color: #000d33;"><strong>Proofs (If Applicable)</strong></span></td>
-<td style="width: 1.79533%; height: 15px;">&nbsp;</td>
 </tr>
 <tr style="height: 43px;">
 <td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">04/28/2020</span></strong></td>
@@ -115,7 +114,6 @@ author_profile: true
 <td style="width: 6.64273%; height: 43px; text-align: center; font-size: 16px;"><span style="color: #000d33;">20</span></td>
 <td style="width: 13.2047%; text-align: center; font-size: 16px;"><span style="color: #6a5acd;"><strong><a style="color: #6a5acd;" href="https://shalininair.com/files/SN_APE%201%20Immunizations%20Seminar.pdf" target="_blank" rel="noopener">Click to View</a></strong></span></td>
 <td style="width: 35.3411%; text-align: center; font-size: 16px;">&nbsp;</td>
-<td style="width: 1.79533%; height: 215px; font-size: 16px;" rowspan="5"><img src="https://pbs.twimg.com/media/DGtemVQWAAABJCF.jpg" alt="" width="209" height="209" /></td>
 </tr>
 <tr style="height: 43px;">
 <td class="selected" style="width: 7.62024%; text-align: center; height: 43px; font-size: 16px;"><strong><span style="color: #000d33;">05/19/2020</span></strong></td>
