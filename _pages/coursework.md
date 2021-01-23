@@ -17,13 +17,13 @@ author_profile: true
 <table style="width: 520px; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr>
-<td style="width: 511.354px; text-align: center; font-size: 16px;">
+<td style="width: 511.354px; text-align: center; font-size: 18px;">
 <p>Completed Courses | <span style="color: #3200b0;"><strong>In Progress Courses</strong></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center; font-size: 16px;"><strong>Epidemiology Core</strong></p>
+<p style="text-align: center; font-size: 20px;"><strong>Epidemiology Core</strong></p>
 <hr size="6" width="100%" />
 <table style="width: 526px; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
@@ -39,7 +39,7 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-<p style="text-align: center; font-size: 16px;"><strong>Biostatistics Core</strong></p>
+<p style="text-align: center; font-size: 20px;"><strong>Biostatistics Core</strong></p>
 <hr size="6" width="100%" />
 <table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
@@ -55,7 +55,7 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-<p style="text-align: center; font-size: 16px;"><strong>Infectious Disease Core</strong></p>
+<p style="text-align: center; font-size: 20px;"><strong>Infectious Disease Core</strong></p>
 <hr size="6" width="100%" />
 <table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
@@ -72,7 +72,7 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-<p style="text-align: center; font-size: 16px;"><strong>Public Health (General) Core</strong></p>
+<p style="text-align: center; font-size: 20px;"><strong>Public Health (General) Core</strong></p>
 <hr size="6" width="100%" />
 <table style="margin-left: auto; margin-right: auto;" border="1">
 <tbody>
