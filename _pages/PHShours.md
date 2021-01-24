@@ -4,6 +4,9 @@ title: <div align="center">Public Health Service Hours </div>
 permalink: /PHShours/
 author_profile: true
 ---  
+
+
+<div align="center"><a href="/files/PHS Time Log.pdf" target="_blank"><b>Click here for a PDF version of the time log.</b></a></div>
 <hr size="6" width="100%" color="navy">
 
 
