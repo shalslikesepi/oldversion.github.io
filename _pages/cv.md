@@ -30,8 +30,14 @@ redirect_from:
   {% endfor %}</ul>
 
 <hr size="6" width="100%" color="navy">
-<span style="color:darkblue">Research Experience</span>
+<span style="color:darkblue">Experience</span>
 ======
+
+**Jan 2021 - Apr 2021** Intern  
+Public Health and Medical Preparedness, Monroe County Health Department  
+  
+ * Duties include: Identify key elements of the COVID-19 vaccination process, identify options available to the CHD and provide a draft planning mechanism for them to be applied to specific target groups, serve as a draft planner and coordinator for actions that the CHD will take to ensure vaccination delivery in their jurisdiction, update Monroe County Health Department's Emergency Operations Plan, collaborate with department staff to draft and initiate quality improvement project for the Emergency Preparedness branch.
+
 **Aug 2019 - May 2020** Research Assistant  
 Department of Biobehavioral Nursing Science, University of Florida
 
