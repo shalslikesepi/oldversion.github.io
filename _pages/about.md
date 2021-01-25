@@ -12,7 +12,9 @@ Welcome to my page! My name is Shalini (SHAH-lynn-ee) Nair. I earned my <a href=
 
 In addition to my research, my graduate curriculum has given me a strong foundation in data analysis in SAS and R. The majority of my graduate electives have focused on the dynamics and epidemiology of infectious diseases. Relevant coursework include Virology, Infectious Disease Epidemiology, Epidemiology Methods I and II, and Public Health Computing. Currently, I am finishing my <a href="https://mph.ufl.edu/about/concentration-options/epidemiology/" target="_blank" rel="noreferrer">Master of Public Health in Epidemiology at UF</a>, with an expected graduation date of May 2021.      
   
-I am particularly fascinated by emerging pathogens and the complex factors associated with their development and spread. I plan on pursuing a doctoral degree beginning in the Fall of 2021, with a focus on the use of quantitative modeling methods to inform public health response to infectious disease outbreaks. 
+I am particularly fascinated by emerging pathogens and the complex factors associated with their development and spread. I plan on pursuing a doctoral degree beginning in the Fall of 2021, with a focus on the use of quantitative modeling methods to inform public health response to infectious disease outbreaks.   
+
+Currently, I am completing my final internship experience with the Public Health and Medical Preparedness Unit at the Florida Department of Health in Monroe County.
 
 <html>
 <head>
