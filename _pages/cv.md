@@ -36,7 +36,8 @@ redirect_from:
 **Jan 2021 - Apr 2021** Intern  
 Public Health and Medical Preparedness, Monroe County Health Department  
   
- * Duties include: Identify key elements of the COVID-19 vaccination process, identify options available to the CHD and provide a draft planning mechanism for them to be applied to specific target groups, serve as a draft planner and coordinator for actions that the CHD will take to ensure vaccination delivery in their jurisdiction, update Monroe County Health Department's Emergency Operations Plan, collaborate with department staff to draft and initiate quality improvement project for the Emergency Preparedness branch.
+ * Duties include: Identify key elements of the COVID-19 vaccination process, identify options available to the CHD and provide a draft planning mechanism for them to be applied to specific target groups, serve as a draft planner and coordinator for actions that the CHD will take to ensure vaccination delivery in their jurisdiction, update Monroe County Health Department's Emergency Operations Plan, collaborate with department staff to draft and initiate quality improvement project for the Emergency Preparedness branch.  
+* Supervisor: Eric Roberts
 
 **Aug 2019 - May 2020** Research Assistant  
 Department of Biobehavioral Nursing Science, University of Florida
