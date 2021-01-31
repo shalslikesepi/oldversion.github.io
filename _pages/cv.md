@@ -36,7 +36,9 @@ redirect_from:
 **Jan 2021 - Apr 2021** Intern  
 Public Health and Medical Preparedness, Monroe County Health Department  
   
- * Duties include: Identify key elements of the COVID-19 vaccination process, identify options available to the CHD and provide a draft planning mechanism for them to be applied to specific target groups, serve as a draft planner and coordinator for actions that the CHD will take to ensure vaccination delivery in their jurisdiction, update Monroe County Health Department's Emergency Operations Plan, collaborate with department staff to draft and initiate quality improvement project for the Emergency Preparedness branch.  
+ * Duties include: Manage draft planning and coordination for actions that the department will take to ensure COVID-19 
+vaccination delivery in jurisdiction of 74,000+ residents, Assist in updating Monroe County Health Department’s Emergency Operations Plan, Acquire familiarity with the incident command system (ICS) and emergency response protocols through completion of FEMA certifications, Collaborate with department staff to draft and initiate a quality improvement project for the unit, Spearhead logistics and workflow plan for the establishment of a mass point of dispensing (POD) for COVID-19 vaccination.
+ 
 * Supervisor: Eric Roberts
 
 **Aug 2019 - May 2020** Research Assistant  
@@ -44,15 +46,17 @@ Department of Biobehavioral Nursing Science, University of Florida
 
   * Protocols:   
   1. Developing the Biobehavioral Foundation for Self-Management of Psych-neurological Symptoms in Hematopoietic Stem Cell Transplant (HCT) Survivors  
-  2. Foundations for a Targeted Dietary Intervention to Mitigate Dysbiosis and Persistent Fatigue for Survivors of Allogeneic Hematopoietic Cell                         Transplantation (HCT)  
-  3. A Phase III, Randomized, Clinical Trial Comparing Two Diets in Patients Undergoing Hematopoietic Stem Cell Transplant (HSCT) or Remission Induction                 Chemotherapy for Acute Leukemia and Myelodysplastic Syndrome
- * Duties included: Data entry and cleaning, maintenance and audit of patient files, verification of accuracy and validity of data
+  2. Foundations for a Targeted Dietary Intervention to Mitigate Dysbiosis and Persistent Fatigue for Survivors of Allogeneic Hematopoietic Cell Transplantation (HCT)  
+  3. A Phase III, Randomized, Clinical Trial Comparing Two Diets in Patients Undergoing Hematopoietic Stem Cell Transplant (HSCT) or Remission Induction Chemotherapy for Acute Leukemia and Myelodysplastic Syndrome
+ * Duties included: Headed data management under 3 distinct project protocols, Managed scoring, data entry and cleaning for over 200 patient files with 100+ data points each within both REDCap and OnCore management software, Streamlined audit of 100+ patient files, Verified the accuracy and validity of data entered into databases; corrected any errors.
+
  * Supervisor: Debra Lynch Kelly, Ph.D., RN, OCN, CNE
 
 **May 2019 - Aug 2019** SPARK Intern  
 Department of Cancer Epidemiology, Moffitt Cancer Center 
 
-  * Duties included: Patient recruitment, enrollment, and follow-up, requesting tissue samples, auditing, revision of operational manuals, preparation of project-related reports, manuscripts, and presentations, presentation of research findings at Moffitt Research Day 2019
+  * Duties included: Consulted with patients via phone for enrollment and follow-up procedures, Coordinated 50+ outgoing tissue sample requests with various Florida hospitals, Assembled and disseminated study and recruitment materials, including management of participant compensation, Assisted with the preparation of project-related reports, manuscripts, and presentations, Presented research findings in a talk at Moffitt Research Day 2019.
+
   * Supervisor: Jong Park, Ph.D., MPH  
   * <a href="https://moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/formal-programs/spark/" target="_blank" rel="noreferrer">More about the SPARK Internship Program here </a>    
   
@@ -60,7 +64,9 @@ Department of Cancer Epidemiology, Moffitt Cancer Center
  University Scholars Program, University of Florida  
   
    * **Jul 2018 - May 2019** A Non-Interventional Study Evaluating the Quality of Diet in Allogeneic and Autologous Hematopoietic Stem Cell Transplant Survivors  
-      * Duties included: Obtaining informed consents, administering surveys, tracking partcipant follow-up, data entry, assistance with preparation of project             related reports/manuscripts and presentations, presentation of findings at UF Undergraduate Symposium 2019  
+      * Duties included: Administered consent and standardized surveys to patients at UF Health Bone Marrow Transplant 
+Clinic, and/or interviewed them to collect research data, Tracked, entered, and verified the accuracy and validity of data for 90+ patient files containing 300+ data points each; corrected any errors, Assisted with the preparation of project-related reports, manuscripts, and presentations, Presented research findings in a poster at UF Undergraduate Research Symposium 2019 and in publication in Biology of Blood and Marrow Transplantation. 
+
       * Supervisor: Nosha Farhadfar, M.D.  
       * <a href="https://cancer.ufl.edu/education/undergraduate/ufhcc-university-scholars-program/" target="_blank" rel="noreferrer">More about the UF Health Cancer Center Scholars Program here </a>  
      
